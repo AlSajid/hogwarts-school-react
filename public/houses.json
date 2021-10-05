@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Gryffindor",
+        "Founder": "Godric Gryffindor",
+        "color": "Scarlet, Gold",
+        "Animal": "Lion",
+        "Traits": "Adventureous",
+        "Head": "Minerva McGonagall",
+        "Ghost": "Nearly Headless Nick",
+        "room": "Gryffindor Tower",
+        "image": "https://burrow.hogwartsishere.com/static//fawkes/house-G.jpg"
+    },
+    {
+        "name": "Hufflepuff",
+        "Founder": "Helga Hufflepuff",
+        "color": "Yellow and Black",
+        "Animal": "Badger",
+        "Traits": "Dedication",
+        "Head": "Pomona Sprout",
+        "Ghost": "Fat Friar",
+        "room": "Hufflepuff Basement",
+        "image": "https://burrow.hogwartsishere.com/static//fawkes/house-H.jpg"
+    },
+    {
+        "name": "Ravenclaw",
+        "Founder": "Rowena Ravenclaw",
+        "color": "Blue and Bronze",
+        "Animal": "Eagle",
+        "Traits": "Wisdom",
+        "Head": "Filius Flitwick",
+        "Ghost": "The Grey Lady",
+        "room": "Ravenclaw Tower",
+        "image": "https://burrow.hogwartsishere.com/static//fawkes/house-R.jpg"
+    },
+    {
+        "name": "Slytherin",
+        "Founder": "Salazar Slytherin",
+        "color": "Green and Silver",
+        "Animal": "Eagle",
+        "Traits": "Self-Preservation",
+        "Head": "Severus Snape",
+        "Ghost": "Bloody Baron",
+        "room": "Slytherin Dungeon",
+        "image": "https://burrow.hogwartsishere.com/static//fawkes/house-S.jpg"
+    }
+]
