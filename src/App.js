@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-        <Header></Header> 
+        <Header></Header>
         <Switch>
           <Route exact path={["/", "/home"]}>
             <Home></Home>

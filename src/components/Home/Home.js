@@ -6,7 +6,7 @@ const Home = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
-        fetch('/courses.json')
+        fetch('https://hogwarts-school-backend.onrender.com/courses/')
             .then(result => result.json())
             .then(data => setServices(data));
     }, []);

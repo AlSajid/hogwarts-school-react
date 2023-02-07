@@ -41,8 +41,8 @@ const About = () => {
                                     <td className="p-1">around 990 A.D</td>
                                 </tr>
                                 <tr>
-                                    <td className="fw-bold p-1 w-25">Scotland</td>
-                                    <td className="p-1">around 990 A.D</td>
+                                    <td className="fw-bold p-1 w-25">Location</td>
+                                    <td className="p-1">Scotland</td>
                                 </tr>
                                 <tr>
                                     <td className="fw-bold p-1 w-25">Owner</td>

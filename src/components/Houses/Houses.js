@@ -5,7 +5,7 @@ const Houses = () => {
     const [houses, setHouses] = useState([]);
 
     useEffect(() => {
-        fetch('/houses.json')
+        fetch('https://hogwarts-school-backend.onrender.com/houses/')
             .then(result => result.json())
             .then(data => setHouses(data));
     }, []);
